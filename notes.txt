@@ -1,0 +1,2 @@
+﻿bươc 1: tạo git
+bươc 2: sưã git
